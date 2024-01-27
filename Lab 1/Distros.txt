@@ -1,0 +1,31 @@
+1 Ubuntu
+2 Debian
+3 CentOS Linux
+4 CentOS Stream
+5 Red Hat Enterprise Linux (RHEL)
+6 Gentoo
+7 Fedora
+8 OpenSUSE
+9 Scientific Linux
+10 CloudLinux
+11 Elementary OS
+12 Linux Mint
+13 Arch Linux
+14 Manjaro
+15 Oracle Linux
+16 Slackware
+17 Mageia
+18 Clear Linux
+19 Rocky Linux
+20 AlmaLinux
+21 Asahi Linux
+22 Lubuntu
+23 SUSE Linux
+24 Knoppix
+25 VzLinux
+26 Peppermint OS
+27 Zorin OS
+28 BlackArch Linux
+29 SUSE Liberty Linux
+30 Navy Linux
+31 Tizen 
